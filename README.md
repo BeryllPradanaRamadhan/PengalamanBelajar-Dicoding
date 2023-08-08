@@ -1,7 +1,7 @@
 # Pengalaman Belajar
 Repository ini berisi tentang Pengalaman Belajarku di Dicoding
 --
-**7 - 8 Agustus 2023**
+**7 - 8 Agustus 2023**  
 Saya memulai Belajar di kelas Belajar Dasar Git Dengan Github. (Progres 38%)
 * Belajar tentang bagaimana sejarah serta penggunaan Git dan Github.
 * Belajar bagaimana dapat memahami perintah dan istilah yang ada pada Git, seperti *Git Repository, Git Branch, Git Fork, Git Clone, Git Commit, Git Push, dan Git Pull.*

@@ -1,2 +1,2 @@
-# PengalamanBelajar-Dicoding
-Repository ini berisi tentang Pengalaman Belajar ku di Dicoding
+# Pengalaman Belajar
+Repository ini berisi tentang Pengalaman Belajarku di Dicoding

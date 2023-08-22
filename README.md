@@ -192,6 +192,7 @@ Belajar di kelas Belajar Dasar Pemrograman Web. (Progress 40%)
 * Belajar tentang Special Character. Ada beberapa karakter spesial seperti copyright symbol (©) yang tidak termasuk ke dalam standar kelompok ASCII characters. ASCII characters hanya menyediakan karakter seperti huruf, nomor, dan beberapa simbol dasar lainnya.  
 
 
+
 **22 Agustus 2023**  
 Belajar di kelas Belajar Dasar Pemrograman Web. (Progress 51%)
 * Belajar mendalami CSS.

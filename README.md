@@ -189,12 +189,11 @@ Belajar di kelas Belajar Dasar Pemrograman Web. (Progress 40%)
 * Belajar tentang Label Element. elemen ini berfungsi untuk memberikan keterangan pada masing-masing elemen input.
 * Belajar tentang Atribut pada Elemen Input. ada 2 jenis atribut pada elemen input yaitu **Placeholder** yang berguna untuk menampilkan bayangan isi pada colum, dan **Required** yang berguna untuk mewajibkan mengisi colum pada input.
 * Belajar tentang Mengirim Data Formulir. Berbicara mengenai mengirim data dari formulir ke server, kita membutuhkan satu elemen esensial dalam membangun formulir. elemen yang berfungsi sebagai wrapper (pembungkus) dari keseluruhan kolom input atau formulir, yaitu elemen <*form>. Dalam mengirimkan data ke server, kita wajib menerapkan atribut name pada seluruh kolom input dalam formulir. Selain itu, ada dua hal yang perlu dilakukan untuk mengirim data ke server, yaitu menetapkan atribut action dan method pada elemen <*form>.
-* Belajar tentang Special Character. Ada beberapa karakter spesial seperti copyright symbol (©) yang tidak termasuk ke dalam standar kelompok ASCII characters. ASCII characters hanya menyediakan karakter seperti huruf, nomor, dan beberapa simbol dasar lainnya.   
+* Belajar tentang Special Character. Ada beberapa karakter spesial seperti copyright symbol (©) yang tidak termasuk ke dalam standar kelompok ASCII characters. ASCII characters hanya menyediakan karakter seperti huruf, nomor, dan beberapa simbol dasar lainnya.
 
 
-
-**22 Agustus 2023**  
-Belajar di kelas Belajar Dasar Pemrograman Web. (Progress 51%)
+**22 Agustus 2023**
+Belajar di kelas Belajar Dasar Pemrograman Web. (Progress 51%)  
 * Belajar mendalami CSS.
 * Belajar Keuntungan dan Cara Kerja CSS.
 * Dengan menerapkan CSS, tampilan website kita akan lebih menarik. Berikut beberapa keuntungan yang didapatkan ketika kita menerapkan CSS. Dapat mengontrol dan menerapkan layout secara presisi, Menghindari pekerjaan yang berulang-ulang dalam menerapkan styling, Didukung banyak browser.

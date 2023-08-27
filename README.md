@@ -262,3 +262,9 @@ Belajar di kelas Belajar Dasar Pemrograman Web. (Progress 98%)
 * Belajar tentang Properti-Properti pada Flex Container. Dalam penerapan flexbox, ada properti-properti yang terlibat pada dua hal, yaitu flex container (parent element) dan flex items.
 * Belajar tentang beberapa properti-properti pada flex container yang berpengaruh langsung pada flex items dalam menampilkan susunannya, yakni: **display**: mendefinisikan elemen agar disusun sebagai flexible box. **flex-direction**: menentukan arah susunan flex items dijajarkan. **flex-wrap**: mengubah perilaku susunan flex items menjadi dua dimensi (jika dibutuhkan). **justify-content**: mengatur tata letak dari flex items pada main axis. **align-items**: mirip seperti justify-content, tetapi mengatur child element dalam satu baris pada cross axis. **align-content**: melakukan perataan terhadap flex items di setiap baris pada cross-axis. **gap**: memberikan jarak atau celah pada flex items.
 * Belajar tentang beberapa properti properti pada flex item yang berpengaruh pada flex item yang di target, bukan elemen pembukusnya (flex conteiner). yaitu: **order**: mengatur urutan susunan flex items. **flex-grow**: melakukan grow (pelebaran ukuran) dari flex items yang ditarget pada main axis. **flex-shrink**: menyusutkan atau menciutkan ukuran child element jika ukurannya tidak mencukupi ruang container. **flex-basis**: memberikan ukuran default sebelum sisa ruang container didistribusikan kepada flex items. **align-self**: mengatur posisi child element secara cross-axis.
+
+
+**25 Agustus 2023**  
+Belajar di kelas Belajar Dasar Pemrograman Web. (Progress 100%)
+* Saya mengerjakan Ujian Akhir di kelas Belajar Dasar Pemrograman Web, dan mendapatkan 100% score out of 20 question on final exam.
+* lalu saya melanjutkan untuk mengerjakan Project Akhir Kelas yaitu di tantang untuk membuat halaman Website dengan menggunakan teknik semantic HTML dan CSS, dan saya berhasil menyelesaikannya.

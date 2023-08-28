@@ -268,3 +268,14 @@ Belajar di kelas Belajar Dasar Pemrograman Web. (Progress 98%)
 Belajar di kelas Belajar Dasar Pemrograman Web. (Progress 100%)
 * Saya mengerjakan Ujian Akhir di kelas Belajar Dasar Pemrograman Web, dan mendapatkan 100% score out of 20 question on final exam.
 * lalu saya melanjutkan untuk mengerjakan Project Akhir Kelas yaitu di tantang untuk membuat halaman Website dengan menggunakan teknik semantic HTML dan CSS, dan saya berhasil menyelesaikannya.
+
+
+**28 Agustus 2023**
+Mulai belajar di kelas Belajar Dasar Pemrograman JavaScript. (Progress 10%)
+* Pengenalan Kelas.
+* Mekanisme Belajar.
+* Glosarium.
+* Belajar apa itu JavaScript. JavaScript adalah bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat website menjadi lebih “hidup”.
+* Belajar Sejarah JavaScript.
+* Belajar kenapa harus belajar JavaScript.
+* Kenapa ko Progres belajar nya sedikit banget? Jadi hari ini aku gaenak badan, aku meriang, menggigil.

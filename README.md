@@ -279,3 +279,18 @@ Mulai belajar di kelas Belajar Dasar Pemrograman JavaScript. (Progress 10%)
 * Belajar Sejarah JavaScript.
 * Belajar kenapa harus belajar JavaScript.
 * Kenapa ko Progres belajar nya sedikit banget? Jadi hari ini aku gaenak badan, aku meriang, menggigil.
+
+
+**29 Agustus 2023**  
+Belajar dikelas Belajar Dasar Pemrograman JavaScript. (Progress 24%)
+* Belajar menuliskan JavaScript dan menampilkannya ke konsol.
+* Belajar memahami penggunaan komentar pada JavaScript.
+* Belajar memahami konsep variabel pada JavaScript.
+* Belajar memahami beberapa jenis tipe data  pada JavaScript.
+* Belajar mengenal operator pada JavaScript dan bagaimana menggunakannya.
+* Belajar memahami konsep percabangan pada pemrograman.
+* Belajar memahami konsep perulangan pada pemprograman.
+* Belajar pengenalan stuktur data.
+* Belajar object pada pemrograman javascript.
+* Belajar array pada pemrograman javascript.
+* Belajar Spread operator pada pemrograman JavaScript.

@@ -294,3 +294,16 @@ Belajar dikelas Belajar Dasar Pemrograman JavaScript. (Progress 24%)
 * Belajar object pada pemrograman javascript.
 * Belajar array pada pemrograman javascript.
 * Belajar Spread operator pada pemrograman JavaScript.
+
+
+**30 Agustus 2023**
+Belajar dikelas Belajar Dasar Pemrograman JavaScript. (Progress 31%)
+* Belajar tentang Destructuring Object & Array. Apa sebenarnya destructuring object dan array itu? Destructuring dalam JavaScript merupakan sintaksis yang dapat mengeluarkan nilai dari array atau properties dari sebuah object ke dalam satuan yang lebih kecil.
+* Belajar tentang Destructuring Object.
+* Belajar tentang Destructuring assignment.
+* Belajar tentang Default Values.
+* Belajar tentang Assigning to Different Local Variable Names.
+* Belajar tentang Destructuring Array.
+* Belajar tentang Map. Map adalah tipe data yang menyimpan koleksi data dengan format key-value layaknya Object. Yang membedakan adalah Map memperbolehkan key dengan tipe data apa pun, dibandingkan Object yang hanya mengizinkan key bertipe String atau Symbol.
+* Belajar tentang Set. Set sederhananya merupakan kumpulan nilai (set of values). Hal yang membedakan Set dengan struktur data yang lain adalah data pada Set tidak berurutan dan juga tidak diindeks.
+* Belajar tentang WeakMap & WeakSet.

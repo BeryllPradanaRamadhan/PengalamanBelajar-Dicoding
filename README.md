@@ -307,3 +307,27 @@ Belajar dikelas Belajar Dasar Pemrograman JavaScript. (Progress 31%)
 * Belajar tentang Map. Map adalah tipe data yang menyimpan koleksi data dengan format key-value layaknya Object. Yang membedakan adalah Map memperbolehkan key dengan tipe data apa pun, dibandingkan Object yang hanya mengizinkan key bertipe String atau Symbol.
 * Belajar tentang Set. Set sederhananya merupakan kumpulan nilai (set of values). Hal yang membedakan Set dengan struktur data yang lain adalah data pada Set tidak berurutan dan juga tidak diindeks.
 * Belajar tentang WeakMap & WeakSet.
+
+
+**31 Agustus 2023**  
+Belajar dikelas Belajar Dasar Pemrograman JavaScript. (Progress 56%)
+* Belajar tentang Function.
+* Belajar tentang Declaring Function.
+* Belajar tentang Function Parameter.
+* Belajar tentang Arrow Fungtion.
+* Belajar tentang Variabel Scope.
+* Belajar tentang Closure.
+* Belajar tentang Object Oriented.
+* Belajar tentang Constructor Function.
+* Belajar tentang property dan method pada javascript.
+* Belajar tentang pewarisan.
+* Belajar tentang Object Composition.
+* Belajar tentang Built in class
+* Belajar tentang Functional programming.
+* Belajar tentang paradigma functional.
+* Belajar tentang konsep konsep Functional Programming.
+* Belajar tentang Reusable Functional.
+* Belajar setup environment
+* belajar tentang javascrip runtime
+* belajaar tntang node.js
+* Belajar tentang export dan import

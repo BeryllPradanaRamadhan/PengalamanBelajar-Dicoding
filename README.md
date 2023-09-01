@@ -331,3 +331,38 @@ Belajar dikelas Belajar Dasar Pemrograman JavaScript. (Progress 56%)
 * belajar tentang javascrip runtime
 * belajaar tntang node.js
 * Belajar tentang export dan import
+
+
+**1 September 2023**  
+Belajar dikelas Dasar Pemrograman JavaScript. (Progress 100%)
+* Belajar tentang Pengenalan Setup Environment.
+* Belajar tentang Text Editor & Terminal.
+* Belajar tentang JavaScript Runtime.
+* Belajar tentang Node.JS.
+* Belajar tentang Instalasi Node.js dengan NVM.
+* Belajar tentang membuat project dengan menggunakan java Script.
+* Belajar tentang Menjalankan Project JavaScript.
+* Belajar Tentang Pengenalan Module.
+* Belajar tentang Export dan Import.
+* Belajar tentang Export beberapa nilai pada Node.js.
+* Belajar tentang ES6 Module.
+* Belajar tentang Penanganan Error.
+* Belajar tentang Try and Catch.
+* Belajar tentang Throwing Errors.
+* Belajar tentang Costum Error.
+* Belajar tentang Asynchronous Process.
+* Belajar tentang setTimeout Function.
+* Asynchronous Handling dengan Callback.
+* Belajar tentang Asynchronous Handling dengan Promise.
+* Belajar tentang Mengubah Callback Menjadi Promise dengan Promisify.
+* Belajar tentang Promise Berantai.
+* Belajar tentang Promise Static Method.
+* Belajar tentang Asynchronous Handling dengan Sintaks Async dan Await.
+* Belajar tentang Pengenalan Node Package Manager.
+* Belajar tentang Menginstal package melalui NPM.
+* Belajar tentang Menggunakan package untuk membantu pengembangan aplikasi.
+* Belajar tentang Menghapus proyek yang sudah tidak digunakan.
+* Belajar tentang Pengenalan JavaScript Testing.
+* Belajar tentang Jest.
+* Belajar tentang Menulis Kode Pengujian.
+* Menyelesaikan Ujian Akhir.

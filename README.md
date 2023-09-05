@@ -366,3 +366,38 @@ Belajar dikelas Dasar Pemrograman JavaScript. (Progress 100%)
 * Belajar tentang Jest.
 * Belajar tentang Menulis Kode Pengujian.
 * Menyelesaikan Ujian Akhir.
+
+
+
+**4 September 2023**  
+Memulai Belajar Dikelas Belajar Membuat Fronted-End Web untuk Pemula. (Progress 44%)
+* Belajar tentang Object Model dan Document Object Model.
+* Belajar cara JavaScript mengontrol Website dan Browser.
+* Belajar menjalankan JavaScript di Website.
+* Belajar Browser Environment.
+* Belajar Browser Object Model.
+* Belajar tentang anggota BOM. Method alert, Method promt.
+* Belajar memanggil anggota BOM.
+* Belajar tentang DoCument Object Model (DOM).
+* Belajar tentang DOM Tree.
+* Belajar tentang mencari DOM (Mendapatkan DOM).
+* Belajar tentang membuat element HTML.
+* Belajar tentang Mengubah konten HTML - Menyiapkan Konten.
+* Belajar mengubah Konten HTML - Memanipulasi Atribut.
+* Belajar tentang Menambahkan Elemen HTML ke DOM.
+* Belajar tentang Ibteraktif dengan Event.
+* Belajar tentang apa itu Event.
+* Belajar menambahkan Event - Menyiapkan Hahalaman website.
+* Belajar menambahkan Event Handler - Membuat event handler onload.
+
+
+**5 September 2023**  
+Belajar dikelas Belajar Membuat Front-End Web untuk Pemula. (Progress 56%)
+* Belajar menambahkan Event Handler - membuat Event handler onClick.
+* Belajar menambahkan Event Handler - membuat Event handler inLine.
+* Belajar menambahkan Event Handler - membuat Event handler dengan addEventListener().
+* Belajar menambahkan Costum Event.
+* Belajar membangkitkan Costum Event.
+* Belajar tentang Event Bubbling dan Capturing.
+* Belajar tentang pengenalan ke Form.
+* Belajar tentang Form Event.

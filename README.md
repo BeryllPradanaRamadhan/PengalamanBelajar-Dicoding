@@ -401,3 +401,18 @@ Belajar dikelas Belajar Membuat Front-End Web untuk Pemula. (Progress 56%)
 * Belajar tentang Event Bubbling dan Capturing.
 * Belajar tentang pengenalan ke Form.
 * Belajar tentang Form Event.
+
+
+**6 September 2023**  
+Belajar dikelas Belajar Membuat Front-End Web untuk Pemula. (Progress 70%)
+* Belajar Input Event, menyiapkan Web.
+* Belajar Input Event: onInput.
+* Belajar Input Event: onFocus.
+* Belajar Input Event: onBlur.
+* Belajar Input Event: onChange.
+* Belajar Input Event: onCopy.
+* Belajar Input Event: onPaste.
+* Belajar membuat Aplikasi Todo Apps.
+* Belajar membuat berkas JavaScript, dan Menampilkan Todo pada console.
+* Belajar menampilkan item Todo dan Menandai Todo Selesai.
+* Belajar Ikhtisar Interaktif dengan Event.

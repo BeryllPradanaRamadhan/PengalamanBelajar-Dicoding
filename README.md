@@ -416,3 +416,19 @@ Belajar dikelas Belajar Membuat Front-End Web untuk Pemula. (Progress 70%)
 * Belajar membuat berkas JavaScript, dan Menampilkan Todo pada console.
 * Belajar menampilkan item Todo dan Menandai Todo Selesai.
 * Belajar Ikhtisar Interaktif dengan Event.
+
+
+**7 September 2023**  
+Belajar diKelas Belajar Membuat Front-End Web untuk Pemula. (Progress 98%)
+* Belajar mengenal Penyimpanan Data dengan Web Storage.
+* Belajar apa itu web storage.
+* Belajar mengetahui fungsi dari web storage.
+* Belajar macam-macam Web Storage, yaitu local storage, dan session storage serta cara penggunaannya.
+* Belajar mengimplementasikan menambah item storage.
+* Belajar mengimplementasikan mengakses item storage.
+* Belajar mengimplementasikan Memodifikasi item storage
+* Belajar mengimplementasikan menghapus item storage.
+* Belajar mengimplementasikan menyimpan data kompleks pada item storage menggunakan object JSON.
+* Belajar mengimplementasikan Ilmu Web Storage dengan membuat aplikasi Todo Apps.
+* Belajar metode manipulasi data web storage.
+* Menyelesaikan Ujian Akhir Kelas.

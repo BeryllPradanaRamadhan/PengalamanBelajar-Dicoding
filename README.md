@@ -432,3 +432,8 @@ Belajar diKelas Belajar Membuat Front-End Web untuk Pemula. (Progress 98%)
 * Belajar mengimplementasikan Ilmu Web Storage dengan membuat aplikasi Todo Apps.
 * Belajar metode manipulasi data web storage.
 * Menyelesaikan Ujian Akhir Kelas.
+
+
+**8 September 2023**  
+Belajar diKelas Belajar Membuat Front-End Web untuk Pemula. (Progress 100%)
+* Menyelesaikan Tugas Akhir Kelas, yaitu membuat Aplikasi Bookshelf Apps.

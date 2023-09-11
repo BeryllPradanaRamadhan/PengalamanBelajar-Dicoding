@@ -437,3 +437,25 @@ Belajar diKelas Belajar Membuat Front-End Web untuk Pemula. (Progress 98%)
 **8 September 2023**  
 Belajar diKelas Belajar Membuat Front-End Web untuk Pemula. (Progress 100%)
 * Menyelesaikan Tugas Akhir Kelas, yaitu membuat Aplikasi Bookshelf Apps.
+
+
+**9 September 2023**  
+Mulai masuk ke kelas Belajar Fundamental Front-End Web Development. (Progress 18%)
+* Seperti biasa di awali dengan pengenalan kelas.
+* Pendahuluan pengenalan kelas.
+* Belajar dengan Pendahuluan ECMAScript 6.
+* Belajar lagi tentang Sejarah javaScript.
+* Belajar menjalankan potongan kode dengan platform online Repl.it.
+* Memyiapkan Proyek Latihan.
+* Belajar Mendeklarasikan Variabel.
+* Latihan mendeklarasikan Variabel.
+* Belajar dengan solusi Deklarasi Variabel.
+* Belajar Template Literal.
+* Belajar dengan latihan Template Literal.
+* Belajar dengan solusi Template Literal.
+* Belajar tentang Destructuring Object dan Array.
+* Latihan dengan Destructuring Object.
+* Belajar dengan solusi Destructuring Object.
+* Belajar tentang Sreading Operator dan Rest Parameter.
+* Belajar tentang Function.
+* Belajar tentang Arrow Function Expression

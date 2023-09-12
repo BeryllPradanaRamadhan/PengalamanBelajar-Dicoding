@@ -439,7 +439,7 @@ Belajar diKelas Belajar Membuat Front-End Web untuk Pemula. (Progress 100%)
 * Menyelesaikan Tugas Akhir Kelas, yaitu membuat Aplikasi Bookshelf Apps.
 
 
-**9 September 2023**  
+**11 September 2023**  
 Mulai masuk ke kelas Belajar Fundamental Front-End Web Development. (Progress 18%)
 * Seperti biasa di awali dengan pengenalan kelas.
 * Pendahuluan pengenalan kelas.
@@ -459,3 +459,36 @@ Mulai masuk ke kelas Belajar Fundamental Front-End Web Development. (Progress 18
 * Belajar tentang Sreading Operator dan Rest Parameter.
 * Belajar tentang Function.
 * Belajar tentang Arrow Function Expression
+
+**12 September 2023**  
+Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 40%)
+* Belajar tentang Regular Function versus Arrow Function.
+* Belajar tentang Parameter dan Block Body pada Arrow Function.
+* Belajar tentang Keyword this pada Arrow Function.
+* Belajar tentang Default Parameters.
+* Latihan Arrow Function.
+* Belajar tentang Class.
+* Belajar tentang apa itu Class pada JavaScript.
+* Belajar tentang Constructor.
+* Belajar tentang Instance.
+* Belajar tentang Property Accessor.
+* Belajar tentang Method.
+* Belajar tentang Inheritance.
+* Belajar tentang Static Method.
+* Belajar tentang Promise.
+* Latihan Class.
+* Belajar tentang setTimeout.
+* Belajar tentang Callback Function.
+* Belajar tentang tentang apa itu Promise.
+* Belajar tentang Membuat Objek Promise.
+* Belajar tentang Fungsi onFulfilled dan onRejected.
+* Belajar tentang onRejected menggunakan Catch Method.
+* Belajar tentang Promise Berantai.
+* Belajar tentang Promise All.
+* Belajar tentang Sintaks Async/Await.
+* Belajar menangani onRejected menggunakan async/await.
+* Belajar Promise berantai menggunakan async/await.
+* Belajar tentang Module.
+* Latihan Promise.
+* Belajar tentang Ekspor dan Impor Modul pada Node.js.
+* Belajar Ekspor banyak Nilai pada Node.js.

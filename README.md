@@ -492,3 +492,22 @@ Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 40%)
 * Latihan Promise.
 * Belajar tentang Ekspor dan Impor Modul pada Node.js.
 * Belajar Ekspor banyak Nilai pada Node.js.
+
+
+**13 September 2023**  
+Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 54%)
+* Belajar tentang ES6 Module.
+* Belajar tentang Sintaks Ekspor dan Impor pada ES6 Module.
+* Belajar tentang Web Component.
+* Belajar tentang apa itu Web Component.
+* Belajar tentang apa itu Custom Element.
+* Belajar menulis Custom Element Pertama.
+* Belajar tentang Siklus Hidup dari Costum Element.
+* Belajar tentang Atribut dan Method pada Custom Element.
+* Belajar mengamati Nilai Atribut.
+* Belajar menerapkan Styling pada Custom Element tanpa shadow DOM.
+* Belajar menangani Data yang Kompleks.
+* Belajar tentang Nested Custom Element.
+* Latihan Menerapkan Custom Element pada proyek Club Finder.
+* Latihan membuat app-bar Component.
+* Latihan membuat club-list dan club-item.

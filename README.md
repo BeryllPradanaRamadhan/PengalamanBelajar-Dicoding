@@ -511,3 +511,28 @@ Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 54%)
 * Latihan Menerapkan Custom Element pada proyek Club Finder.
 * Latihan membuat app-bar Component.
 * Latihan membuat club-list dan club-item.
+
+
+**14 Agustus 2023**  
+Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 70%)
+* Belajar tentang Shadow DOM.
+* Belajar tentang apa itu Shadow DOM.
+* Belajar Dasar Penggunaan Shadow DOM.
+* Belajar Penggunaan Shadow DOM pada Web.
+* Latihan menerapkan Shadow DOM pada proyek.
+* Evaluasi Knowledge ECMAScript 6 dan Web Component.
+* Belajar tentang Package Manager.
+* Belajar tentang apa itu Package Manager.
+* Belajar memasang Node.js dan NPM.
+* Belajar memulai menggunakan NPM.
+* Belajar membuat Proyek JavaScript menggunakan NPM.
+* Memasang package dan mengenal berkas package.json.
+* Menggunakan Package yang terpasang pada Browser.
+* Menjalankan Runner Scripts.
+* Menghapus Package yang terpasang.
+* Belajar tentang Cakupan Package.
+* Belajar Bundel dengan Module Bundler.
+* Belajar tentang Module Bundler.
+* Belajar tentang apa itu Webpack.
+* Belajar tentang Core Concepts.
+* Belajar tentang Entry.

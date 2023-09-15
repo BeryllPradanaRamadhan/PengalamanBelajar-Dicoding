@@ -536,3 +536,18 @@ Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 70%)
 * Belajar tentang apa itu Webpack.
 * Belajar tentang Core Concepts.
 * Belajar tentang Entry.
+
+
+**15 September 2023**  
+Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 80%)
+* Belajar tentang Output.
+* Belajar tentang Loader.
+* Belajar tentang Plugin.
+* Belajar tentang Mode.
+* Belajar memasang dan menggunakan Webpack.
+* Belajar membuat Berkas Konfigurasi.
+* Belajar menggunakan Loader.
+* Belajar menggunakan Plugin.
+* Belajar tentang Webpack Dev Server.
+* Belajar mengonfigurasi Webpack berdasarkan Environment.
+* Belajar menerapkan Webpack pada Club Finder.

@@ -551,3 +551,11 @@ Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 80%)
 * Belajar tentang Webpack Dev Server.
 * Belajar mengonfigurasi Webpack berdasarkan Environment.
 * Belajar menerapkan Webpack pada Club Finder.
+
+
+**18 September 2023**  
+Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 83)
+* Belajar Asychronous JavaScript Request.
+* Belajar tentang HTTP Request.
+* Belajar tentang Web APIs.
+* Belajar tentang CORS.

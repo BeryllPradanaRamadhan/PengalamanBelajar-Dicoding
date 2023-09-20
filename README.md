@@ -554,8 +554,32 @@ Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 80%)
 
 
 **18 September 2023**  
-Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 83)
+Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 83%)
 * Belajar Asychronous JavaScript Request.
 * Belajar tentang HTTP Request.
 * Belajar tentang Web APIs.
 * Belajar tentang CORS.
+
+
+**19 September 2023**  
+Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 89%)
+* Belajar tentang Web API menggunakan Postman.
+* Belajar tentang  JavaScript Object Notation(JSON).
+* Belajar tentang AJAX menggunakan XHR.
+* Belajar header dan body request menggunakan XHR.
+* Latihan AJAX menggunakan XHR pada project.
+* Latihan untuk membuat fungsi getBook yang di gunakan untuk mendapatkan daftar buku yang ada pada Web API.
+* Latihan untuk membuat fungsi insertBook yang digunakan untuk menambah data buku melalui Web API.
+* Latihan untuk membuat fungsi updateBook yang digunakan untuk mengubah data buku yang ada melalui Web API..
+* Latihan untuk membuat fungsi removeBook yang digunakan untuk menghapus data buku yang ada melalui Web API.
+
+**20 September 2023**  
+Belajar di Kelas Belajar Fundamental Front-End Web Development. (Progress 95%)
+* Belajar tentang AJAX menggunakan Fetch.
+* Belajar tentang Dasar Penggunaan Fetch.
+* Belajar mengubah Method, Menetapkan Header Property, dan Menetapkan Data pada Body Request menggunakan Fetch.
+* Latihan AJAX menggunakan Fetch.
+* Latihan dengan mengubah fungsi getBook menggunakan metode Fetch.
+* Latihan dengan mengubah fungsi insertBook menggunakan metode Fetch.
+* Latihan dengan mengubah fungsi updateBook menggunakan metode Fetch.
+* Latihan dengan mengubah fungsi removeBook menggunakan metode Fetch.
